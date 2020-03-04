@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ALLIED_interview_work</string>
+    <string name="textview">TextView</string>
 </resources>
